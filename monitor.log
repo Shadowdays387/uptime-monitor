@@ -1,0 +1,108 @@
+[OK] https://google.com | 200 | 635ms
+[OK] https://github.com | 200 | 496ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+[OK] https://google.com | 200 | 989ms
+[OK] https://github.com | 200 | 757ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:31:41 | [OK] https://google.com | 200 | 731ms
+2026-05-31 16:31:42 | [OK] https://github.com | 200 | 770ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:04 | [OK] https://google.com | 200 | 760ms
+2026-05-31 16:40:04 | [OK] https://github.com | 200 | 486ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:05 | [OK] https://google.com | 200 | 760ms
+2026-05-31 16:40:05 | [OK] https://github.com | 200 | 485ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:06 | [OK] https://google.com | 200 | 712ms
+2026-05-31 16:40:07 | [OK] https://github.com | 200 | 470ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:07 | [OK] https://google.com | 200 | 706ms
+2026-05-31 16:40:08 | [OK] https://github.com | 200 | 560ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:09 | [OK] https://google.com | 200 | 1077ms
+2026-05-31 16:40:10 | [OK] https://github.com | 200 | 505ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:10 | [OK] https://google.com | 200 | 707ms
+2026-05-31 16:40:11 | [OK] https://github.com | 200 | 506ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:12 | [OK] https://google.com | 200 | 1045ms
+2026-05-31 16:40:12 | [OK] https://github.com | 200 | 498ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:13 | [OK] https://google.com | 200 | 1070ms
+2026-05-31 16:40:14 | [OK] https://github.com | 200 | 483ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:15 | [OK] https://google.com | 200 | 717ms
+2026-05-31 16:40:15 | [OK] https://github.com | 200 | 484ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:16 | [OK] https://google.com | 200 | 709ms
+2026-05-31 16:40:16 | [OK] https://github.com | 200 | 507ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:17 | [OK] https://google.com | 200 | 1043ms
+2026-05-31 16:40:18 | [OK] https://github.com | 200 | 523ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:19 | [OK] https://google.com | 200 | 733ms
+2026-05-31 16:40:20 | [OK] https://github.com | 200 | 906ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:21 | [OK] https://google.com | 200 | 1072ms
+2026-05-31 16:40:21 | [OK] https://github.com | 200 | 490ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:22 | [OK] https://google.com | 200 | 775ms
+2026-05-31 16:40:23 | [OK] https://github.com | 200 | 543ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:23 | [OK] https://google.com | 200 | 699ms
+2026-05-31 16:40:24 | [OK] https://github.com | 200 | 519ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:24 | [OK] https://google.com | 200 | 702ms
+2026-05-31 16:40:25 | [OK] https://github.com | 200 | 456ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:26 | [OK] https://google.com | 200 | 1077ms
+2026-05-31 16:40:27 | [OK] https://github.com | 200 | 518ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:28 | [OK] https://google.com | 200 | 1213ms
+2026-05-31 16:40:28 | [OK] https://github.com | 200 | 495ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:29 | [OK] https://google.com | 200 | 766ms
+2026-05-31 16:40:30 | [OK] https://github.com | 200 | 512ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:30 | [OK] https://google.com | 200 | 720ms
+2026-05-31 16:40:31 | [OK] https://github.com | 200 | 512ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:32 | [OK] https://google.com | 200 | 1074ms
+2026-05-31 16:40:32 | [OK] https://github.com | 200 | 492ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:40:34 | [OK] https://google.com | 200 | 1548ms
+2026-05-31 16:40:35 | [OK] https://github.com | 200 | 570ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:48:31 | [OK] https://google.com | 200 | 634ms
+2026-05-31 16:48:32 | [OK] https://github.com | 200 | 575ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:50:27 | [OK] https://google.com | 200 | 644ms
+2026-05-31 16:50:27 | [OK] https://github.com | 200 | 503ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:52:57 | [OK] https://google.com | 200 | 1090ms
+2026-05-31 16:52:58 | [OK] https://github.com | 200 | 983ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:53:09 | [OK] https://google.com | 200 | 703ms
+2026-05-31 16:53:09 | [OK] https://github.com | 200 | 492ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:53:20 | [OK] https://google.com | 200 | 728ms
+2026-05-31 16:53:20 | [OK] https://github.com | 200 | 496ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:58:00 | [OK] https://google.com | 200 | 1065ms
+2026-05-31 16:58:01 | [OK] https://github.com | 200 | 491ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:58:12 | [OK] https://google.com | 200 | 697ms
+2026-05-31 16:58:12 | [OK] https://github.com | 200 | 497ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 16:58:23 | [OK] https://google.com | 200 | 702ms
+2026-05-31 16:58:23 | [OK] https://github.com | 200 | 476ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 17:02:48 | [OK] https://google.com | 200 | 773ms
+2026-05-31 17:02:49 | [OK] https://github.com | 200 | 571ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 17:03:00 | [OK] https://google.com | 200 | 750ms
+2026-05-31 17:03:00 | [OK] https://github.com | 200 | 493ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
+2026-05-31 17:03:11 | [OK] https://google.com | 200 | 782ms
+2026-05-31 17:03:12 | [OK] https://github.com | 200 | 490ms
+[FAIL] https://abrakadabra-super-site-123456.com | CONNECTION
