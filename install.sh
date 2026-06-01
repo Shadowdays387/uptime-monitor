@@ -5,7 +5,7 @@ set -e
 # чтобы apt не задавал интерактивные вопросы
 export DEBIAN_FRONTEND=noninteractive
 
-# ссылка на репозиторий (ТВОЯ НОВАЯ)
+# ссылка на репозиторий ()
 REPO_URL="https://github.com/nkrylosov/uptime-monitor.git"
 
 # папка проекта
