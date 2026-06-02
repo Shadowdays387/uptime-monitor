@@ -4,4 +4,4 @@ idna==3.17
 requests==2.34.2
 urllib3==2.7.0
 colorama>=0.4.6
-json
+
